@@ -1,0 +1,18 @@
+
+Not sure what the expectations coming from the meeting are, nor exactly what the jobs of the other players in the meeting is.
+
+
+How many reactions per hour do you anticipate (peak and average messages/bandwidth)?
+How time sensetive is the data (is feedback needed real-time, hourly, or can it wait for daily collection and analysis)?
+What are the tags/keywords/accounts/events you want to pay particular attention to?
+Is there a need to capture the language that is used in replies and reposts (NLP)?
+
+How does the data need to be formatted and stored?
+What data needs to be saved (i.e. what is relevant)?
+What processing power can be used for this project (specific servers/resources/RAM/Disk space)?
+Are there any restrictions on the collection of data?
+Are there limitations to what software/tools that are allowed on the network?
+
+Is there anyone in the public outreach/messaging department that needs access to update tags that the service needs to follow?
+What decisions are going to be made with the data from this project?
+How should the data be visualized to best convey relevant information?
